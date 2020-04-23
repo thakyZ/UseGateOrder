@@ -8,6 +8,9 @@
         "Gravier"
     ],
     "markdownlint.config": {
-
-    }
+        "MD009": {
+            "br_spaces": 3
+        }
+    },
+    "files.trimTrailingWhitespace": false
 }
