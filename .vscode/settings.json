@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "lowercase-global"
+    ],
+    "cSpell.words": [
+        "Craxx",
+        "Gravier"
+    ],
+    "markdownlint.config": {
+
+    }
+}
